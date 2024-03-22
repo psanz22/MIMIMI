@@ -14,7 +14,7 @@ const App = () => {
     setInputValue(value);
   };
 
-  const textoh = 'hola';
+  const textoh = 'hola, qué tal';
   console.log(translator(textoh));
   return (
     <>
